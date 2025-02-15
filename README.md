@@ -1,1 +1,1 @@
-# Major_Project
+# Real Time face detection
