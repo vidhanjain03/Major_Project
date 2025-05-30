@@ -7,13 +7,13 @@ It leverages deep learning models to identify whether individuals are wearing ma
 
 ## 📂 Project Structure
 
-- `face_detector/`: Contains the face detection model files.
-- `mask_detector.model`: Pre-trained model for mask detection.
-- `thiefdetection.ipynb`: Jupyter notebook for intrusion detection.
-- `videomaskdetection.ipynb`: Jupyter notebook for real-time mask detection from video streams.
-- `Covered-Face-dataset.zip`: Dataset used for training and evaluation.
 
----
+- `face_detector/`
+- `mask_detector.model`
+- `thiefdetection.ipynb`
+- `videomaskdetection.ipynb`
+- `Covered-Face-dataset.zip`
+
 
 ## 🚀 Getting Started
 
@@ -33,4 +33,7 @@ Run the ```videomaskdetection.ipynb``` notebook to perform real-time face mask d
 ### Intrusion Detection
 Run the ```thiefdetection.ipynb``` notebook to detect unauthorized intrusions from a video feed.
 
+## Dataset
+The ```Covered-Face-dataset.zip``` contains the dataset used for training the mask detection model.
+Extract it before training or evaluation.
 
